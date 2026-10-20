@@ -1,0 +1,170 @@
+{
+  "com.steprecurring.app": [
+    {
+      "id": "step-grammar",
+      "title": "أسئلة القرامر المتكررة",
+      "subtitle": "25 قاعدة بشرح مبسط، و218 سؤالًا من تجميعات المختبرين مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-grammar.pdf?v=4",
+      "pages": 107,
+      "mb": 5.8,
+      "free": true
+    },
+    {
+      "id": "step-passages",
+      "title": "القطع الأكثر تكرارًا",
+      "subtitle": "أكثر 40 قطعة تكرارًا و128 سؤالًا من تجميعات المختبرين، مع الحل والسبب من القطعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-passages.pdf?v=3",
+      "pages": 102,
+      "mb": 3.7,
+      "free": true
+    }
+  ],
+  "com.qudratrecurring.app": [
+    {
+      "id": "qudrat-verbal",
+      "title": "أسئلة اللفظي المتكررة",
+      "subtitle": "221 سؤالًا من تجميعات المختبرين: التناظر، إكمال الجمل، الخطأ السياقي، المفردة الشاذة، مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-verbal.pdf?v=2",
+      "pages": 72,
+      "mb": 3.8,
+      "free": true
+    },
+    {
+      "id": "qudrat-quant",
+      "title": "أسئلة الكمي المتكررة بالحل",
+      "subtitle": "244 سؤالًا من تجميعات المختبرين في 13 موضوعًا، مع طريقة الحل بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-quant.pdf?v=2",
+      "pages": 97,
+      "mb": 5.8,
+      "free": true
+    }
+  ],
+  "com.rukhsarecurring.app": [
+    {
+      "id": "rukhsa-english",
+      "title": "أسئلة الإنجليزي التخصصي المتكررة",
+      "subtitle": "249 سؤالًا من تجميعات المختبرين في 17 موضوعًا، مع جدول المصطلحات بالعربي والحل بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-english.pdf?v=2",
+      "pages": 95,
+      "mb": 5.0,
+      "free": true
+    },
+    {
+      "id": "rukhsa-general",
+      "title": "أسئلة التربوي العام المتكررة",
+      "subtitle": "195 سؤالًا من تجميعات المختبرين في 12 موضوعًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-general.pdf?v=2",
+      "pages": 78,
+      "mb": 3.9,
+      "free": true
+    },
+    {
+      "id": "rukhsa-arabic",
+      "title": "أسئلة اللغة العربية المتكررة",
+      "subtitle": "270 سؤالًا من تجميعات المختبرين في 15 موضوعًا: النحو والصرف والبلاغة والأدب، مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-arabic.pdf?v=1",
+      "pages": 88,
+      "mb": 4.7,
+      "free": true
+    },
+    {
+      "id": "rukhsa-chemistry",
+      "title": "أسئلة الكيمياء المتكررة",
+      "subtitle": "260 سؤالًا من تجميعات المختبرين في 12 موضوعًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-chemistry.pdf?v=1",
+      "pages": 88,
+      "mb": 4.8,
+      "free": true
+    },
+    {
+      "id": "rukhsa-islamic",
+      "title": "أسئلة الدراسات الإسلامية المتكررة",
+      "subtitle": "260 سؤالًا من تجميعات المختبرين في 14 موضوعًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-islamic.pdf?v=1",
+      "pages": 87,
+      "mb": 4.5,
+      "free": true
+    },
+    {
+      "id": "rukhsa-math",
+      "title": "أسئلة الرياضيات المتكررة",
+      "subtitle": "210 أسئلة من تجميعات المختبرين في 13 موضوعًا، مع طريقة الحل بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-math.pdf?v=1",
+      "pages": 72,
+      "mb": 4.3,
+      "free": true
+    },
+    {
+      "id": "rukhsa-art",
+      "title": "أسئلة التربية الفنية المتكررة",
+      "subtitle": "230 سؤالًا من تجميعات المختبرين في 10 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-art.pdf?v=1",
+      "pages": 82,
+      "mb": 4.1,
+      "free": true
+    },
+    {
+      "id": "rukhsa-biology",
+      "title": "أسئلة الأحياء المتكررة",
+      "subtitle": "67 سؤالًا من تجميعات المختبرين في 5 موضوعات، مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-biology.pdf?v=1",
+      "pages": 27,
+      "mb": 1.5,
+      "free": true
+    },
+    {
+      "id": "rukhsa-computer",
+      "title": "أسئلة الحاسب الآلي المتكررة",
+      "subtitle": "240 سؤالًا من تجميعات المختبرين في 6 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-computer.pdf?v=1",
+      "pages": 79,
+      "mb": 4.1,
+      "free": true
+    },
+    {
+      "id": "rukhsa-kindergarten",
+      "title": "أسئلة رياض الأطفال المتكررة",
+      "subtitle": "260 سؤالًا من تجميعات المختبرين في 6 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-kindergarten.pdf?v=1",
+      "pages": 94,
+      "mb": 4.4,
+      "free": true
+    },
+    {
+      "id": "rukhsa-admin",
+      "title": "أسئلة العلوم الإدارية المتكررة",
+      "subtitle": "260 سؤالًا من تجميعات المختبرين في 5 موضوعات: الإدارة والمحاسبة والاقتصاد والتسويق، مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-admin.pdf?v=1",
+      "pages": 84,
+      "mb": 4.2,
+      "free": true
+    },
+    {
+      "id": "rukhsa-history",
+      "title": "أسئلة التاريخ المتكررة",
+      "subtitle": "240 سؤالًا من تجميعات المختبرين في 5 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-history.pdf?v=1",
+      "pages": 74,
+      "mb": 3.9,
+      "free": true
+    },
+    {
+      "id": "rukhsa-geography",
+      "title": "أسئلة الجغرافيا المتكررة",
+      "subtitle": "189 سؤالًا من تجميعات المختبرين في 5 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-geography.pdf?v=1",
+      "pages": 59,
+      "mb": 3.1,
+      "free": true
+    },
+    {
+      "id": "rukhsa-physics",
+      "title": "أسئلة الفيزياء المتكررة",
+      "subtitle": "151 سؤالًا من تجميعات المختبرين في 6 موضوعات، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-physics.pdf?v=1",
+      "pages": 52,
+      "mb": 2.8,
+      "free": true
+    }
+  ]
+}
