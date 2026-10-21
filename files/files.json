@@ -17,6 +17,15 @@
       "pages": 102,
       "mb": 3.7,
       "free": true
+    },
+    {
+      "id": "step-passages-2",
+      "title": "القطع الأكثر تكرارًا - الجزء الثاني",
+      "subtitle": "30 قطعة جديدة و91 سؤالًا من تجميعات المختبرين، الإجابة والشرح بعد كل قطعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-passages-2.pdf?v=1",
+      "pages": 66,
+      "mb": 2.7,
+      "free": true
     }
   ],
   "com.qudratrecurring.app": [
@@ -37,6 +46,15 @@
       "pages": 97,
       "mb": 5.8,
       "free": true
+    },
+    {
+      "id": "qudrat-reading",
+      "title": "الاستيعاب المقروء المتكرر",
+      "subtitle": "188 قطعة و255 سؤالًا من تجميعات المختبرين، الحل والسبب بعد كل قطعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-reading.pdf?v=1",
+      "pages": 108,
+      "mb": 7,
+      "free": true
     }
   ],
   "com.rukhsarecurring.app": [
@@ -46,7 +64,7 @@
       "subtitle": "249 سؤالًا من تجميعات المختبرين في 17 موضوعًا، مع جدول المصطلحات بالعربي والحل بعد كل مجموعة",
       "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-english.pdf?v=2",
       "pages": 95,
-      "mb": 5.0,
+      "mb": 5,
       "free": true
     },
     {
@@ -56,6 +74,15 @@
       "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-general.pdf?v=2",
       "pages": 78,
       "mb": 3.9,
+      "free": true
+    },
+    {
+      "id": "rukhsa-general-2",
+      "title": "أسئلة التربوي العام المتكررة - الجزء الثاني",
+      "subtitle": "135 سؤالًا جديدًا من تجميعات المختبرين في 10 مواضيع، مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-general-2.pdf?v=1",
+      "pages": 55,
+      "mb": 2.8,
       "free": true
     },
     {
