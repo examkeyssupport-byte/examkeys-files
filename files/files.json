@@ -193,5 +193,43 @@
       "mb": 2.8,
       "free": true
     }
+  ],
+  "com.tahsilirecurring.app": [
+    {
+      "id": "tahsili-math",
+      "title": "أسئلة الرياضيات المتكررة بالحل",
+      "subtitle": "199 سؤالًا من تجميعات المختبرين في 17 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-math.pdf?v=1",
+      "pages": 74,
+      "mb": 4.2,
+      "free": true
+    },
+    {
+      "id": "tahsili-physics",
+      "title": "أسئلة الفيزياء المتكررة بالحل",
+      "subtitle": "239 سؤالًا من تجميعات المختبرين في 10 فصول، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-physics.pdf?v=1",
+      "pages": 91,
+      "mb": 7.3,
+      "free": true
+    },
+    {
+      "id": "tahsili-chemistry",
+      "title": "أسئلة الكيمياء المتكررة بالحل",
+      "subtitle": "238 سؤالًا من تجميعات المختبرين في 11 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-chemistry.pdf?v=1",
+      "pages": 77,
+      "mb": 5,
+      "free": true
+    },
+    {
+      "id": "tahsili-biology",
+      "title": "أسئلة الأحياء المتكررة بالحل",
+      "subtitle": "240 سؤالًا من تجميعات المختبرين في 11 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-biology.pdf?v=1",
+      "pages": 77,
+      "mb": 7.5,
+      "free": true
+    }
   ]
 }
