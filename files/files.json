@@ -243,37 +243,73 @@
     {
       "id": "tahsili-math",
       "title": "أسئلة الرياضيات المتكررة بالحل",
-      "subtitle": "199 سؤالًا من تجميعات المختبرين في 17 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-math.pdf?v=1",
-      "pages": 74,
-      "mb": 4.2,
+      "subtitle": "198 سؤالًا من تجميعات المختبرين في 17 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-math.pdf?v=2",
+      "pages": 73,
+      "mb": 4.1,
+      "free": true
+    },
+    {
+      "id": "tahsili-math-2",
+      "title": "أسئلة الرياضيات بالحل من التجميعات - الجزء الثاني",
+      "subtitle": "198 سؤالًا إضافيًا من تجميعات المختبرين في 16 فصلًا، غير أسئلة الجزء الأول، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-math-2.pdf?v=1",
+      "pages": 72,
+      "mb": 4,
       "free": true
     },
     {
       "id": "tahsili-physics",
       "title": "أسئلة الفيزياء المتكررة بالحل",
-      "subtitle": "239 سؤالًا من تجميعات المختبرين في 10 فصول، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-physics.pdf?v=1",
-      "pages": 91,
+      "subtitle": "238 سؤالًا من تجميعات المختبرين في 10 فصول، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-physics.pdf?v=2",
+      "pages": 90,
       "mb": 7.3,
+      "free": true
+    },
+    {
+      "id": "tahsili-physics-2",
+      "title": "أسئلة الفيزياء بالحل من التجميعات - الجزء الثاني",
+      "subtitle": "196 سؤالًا إضافيًا من تجميعات المختبرين في 10 فصول، غير أسئلة الجزء الأول، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-physics-2.pdf?v=1",
+      "pages": 79,
+      "mb": 6.2,
       "free": true
     },
     {
       "id": "tahsili-chemistry",
       "title": "أسئلة الكيمياء المتكررة بالحل",
-      "subtitle": "238 سؤالًا من تجميعات المختبرين في 11 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-chemistry.pdf?v=1",
+      "subtitle": "235 سؤالًا من تجميعات المختبرين في 11 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-chemistry.pdf?v=2",
       "pages": 77,
-      "mb": 5,
+      "mb": 4.9,
+      "free": true
+    },
+    {
+      "id": "tahsili-chemistry-2",
+      "title": "أسئلة الكيمياء بالحل من التجميعات - الجزء الثاني",
+      "subtitle": "200 سؤال إضافي من تجميعات المختبرين في 11 فصلًا، غير أسئلة الجزء الأول، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-chemistry-2.pdf?v=1",
+      "pages": 68,
+      "mb": 4.3,
       "free": true
     },
     {
       "id": "tahsili-biology",
       "title": "أسئلة الأحياء المتكررة بالحل",
       "subtitle": "240 سؤالًا من تجميعات المختبرين في 11 فصلًا، مرتبة من الأكثر تكرارًا، مع الحل والسبب بعد كل مجموعة",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-biology.pdf?v=1",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-biology.pdf?v=2",
       "pages": 77,
       "mb": 7.5,
+      "free": true
+    },
+    {
+      "id": "tahsili-biology-2",
+      "title": "أسئلة الأحياء بالحل من التجميعات - الجزء الثاني",
+      "subtitle": "181 سؤالًا إضافيًا من تجميعات المختبرين في 11 فصلًا، غير أسئلة الجزء الأول، مع الحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-biology-2.pdf?v=1",
+      "pages": 58,
+      "mb": 5.9,
       "free": true
     }
   ]
