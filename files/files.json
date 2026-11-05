@@ -10,6 +10,15 @@
       "free": true
     },
     {
+      "id": "step-grammar-2",
+      "title": "أسئلة القرامر المتكررة - الجزء الثاني",
+      "subtitle": "23 قاعدة بشرح مبسط، و179 سؤالًا جديدًا من تجميعات المختبرين مع الحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-grammar-2.pdf?v=1",
+      "pages": 92,
+      "mb": 5,
+      "free": true
+    },
+    {
       "id": "step-passages",
       "title": "القطع الأكثر تكرارًا",
       "subtitle": "أكثر 40 قطعة تكرارًا و128 سؤالًا من تجميعات المختبرين، مع الحل والسبب من القطعة",
@@ -26,6 +35,15 @@
       "pages": 66,
       "mb": 2.7,
       "free": true
+    },
+    {
+      "id": "step-passages-3",
+      "title": "القطع الأكثر تكرارًا - الجزء الثالث",
+      "subtitle": "30 قطعة (من 71 إلى 100 في الترتيب) و86 سؤالًا من تجميعات المختبرين، مع الإجابة وسببها من القطعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-passages-3.pdf?v=1",
+      "pages": 67,
+      "mb": 2.7,
+      "free": true
     }
   ],
   "com.qudratrecurring.app": [
@@ -39,12 +57,30 @@
       "free": true
     },
     {
+      "id": "qudrat-verbal-2",
+      "title": "أسئلة اللفظي المتكررة - الجزء الثاني",
+      "subtitle": "206 أسئلة جديدة من تجميعات المختبرين في 10 موضوعات، مع الملخص والحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-verbal-2.pdf?v=1",
+      "pages": 70,
+      "mb": 3.7,
+      "free": true
+    },
+    {
       "id": "qudrat-quant",
       "title": "أسئلة الكمي المتكررة بالحل",
       "subtitle": "244 سؤالًا من تجميعات المختبرين في 13 موضوعًا، مع طريقة الحل بعد كل مجموعة",
       "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-quant.pdf?v=2",
       "pages": 97,
       "mb": 5.8,
+      "free": true
+    },
+    {
+      "id": "qudrat-quant-2",
+      "title": "أسئلة الكمي المتكررة بالحل - الجزء الثاني",
+      "subtitle": "233 سؤالًا جديدًا من تجميعات المختبرين في 13 موضوعًا، مع الملخص والحل والسبب بعد كل مجموعة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-quant-2.pdf?v=1",
+      "pages": 89,
+      "mb": 4.7,
       "free": true
     },
     {
@@ -65,6 +101,15 @@
       "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-english.pdf?v=2",
       "pages": 95,
       "mb": 5,
+      "free": true
+    },
+    {
+      "id": "rukhsa-english-2",
+      "title": "أسئلة الإنجليزي التخصصي المتكررة - الجزء الثاني",
+      "subtitle": "193 سؤالًا جديدًا من تجميعات المختبرين في 17 موضوعًا، مع ملخص لكل موضوع وشرح لكل إجابة",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-english-2.pdf?v=1",
+      "pages": 70,
+      "mb": 3.5,
       "free": true
     },
     {
