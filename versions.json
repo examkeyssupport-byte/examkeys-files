@@ -6,7 +6,8 @@
   },
   "com.qudratrecurring.app": {
     "latest": "1.2.0",
-    "notes": "التطبيق صار متاح للجميع على Google Play 🎉 حدّثه عشان توصلك آخر الدروس والتحسينات.",
+    "needs": ["ExpoNotificationScheduler"],
+    "notes": "نسخة جديدة على Google Play 🎉 فيها تذكير يومي بالمذاكرة في الوقت اللي تختاره، ومشاركة صورة نتيجتك مع أصحابك.",
     "rate": true
   },
   "com.rukhsarecurring.app": {
