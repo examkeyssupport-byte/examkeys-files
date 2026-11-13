@@ -1,7 +1,8 @@
 {
   "com.steprecurring.app": {
     "latest": "1.2.0",
-    "notes": "تصميم جديد بالكامل، وقسم للفيديوهات، ونماذج اختبار مرقمة مثل الاختبار الحقيقي 🎉 حدّثها من Google Play.",
+    "needs": ["ExpoNotificationScheduler"],
+    "notes": "نسخة جديدة على Google Play 🎉 فيها تذكير يومي بالمذاكرة في الوقت اللي تختاره، ومشاركة صورة نتيجتك مع أصحابك.",
     "rate": true
   },
   "com.qudratrecurring.app": {
@@ -12,7 +13,13 @@
   },
   "com.rukhsarecurring.app": {
     "latest": "1.1.0",
-    "notes": "التطبيق صار متاح للجميع على Google Play 🎉 حدّثه عشان توصلك آخر الدروس والتحسينات.",
+    "needs": ["ExpoNotificationScheduler"],
+    "notes": "نسخة جديدة على Google Play 🎉 فيها تذكير يومي بالمذاكرة في الوقت اللي تختاره، ومشاركة صورة نتيجتك مع أصحابك.",
     "rate": true
+  },
+  "com.tahsilirecurring.app": {
+    "latest": "1.0.0",
+    "needs": ["ExpoNotificationScheduler"],
+    "notes": "نسخة جديدة على Google Play 🎉 فيها تذكير يومي بالمذاكرة في الوقت اللي تختاره، ومشاركة صورة نتيجتك مع أصحابك."
   }
 }
