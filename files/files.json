@@ -48,6 +48,15 @@
   ],
   "com.qudratrecurring.app": [
     {
+      "id": "qudrat-foundation-1",
+      "title": "كتاب التأسيس – الكمي (الإصدار الأول)",
+      "subtitle": "7 دروس من الصفر: شرح وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-1.pdf?v=1",
+      "pages": 48,
+      "mb": 4,
+      "free": true
+    },
+    {
       "id": "qudrat-new-2026-11-19",
       "title": "أسئلة جديدة من التسريبات – 19 نوفمبر",
       "subtitle": "239 سؤالًا جديدًا (كمي ولفظي) جاءت للمختبرين 8 – 18 نوفمبر، بالحل والسبب",
