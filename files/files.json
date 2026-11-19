@@ -48,6 +48,15 @@
   ],
   "com.qudratrecurring.app": [
     {
+      "id": "qudrat-new-2026-11-19",
+      "title": "أسئلة جديدة من التسريبات – 19 نوفمبر",
+      "subtitle": "239 سؤالًا جديدًا (كمي ولفظي) جاءت للمختبرين 8 – 18 نوفمبر، بالحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-new-2026-11-19.pdf?v=1",
+      "pages": 68,
+      "mb": 4,
+      "free": true
+    },
+    {
       "id": "qudrat-verbal",
       "title": "أسئلة اللفظي المتكررة",
       "subtitle": "221 سؤالًا من تجميعات المختبرين: التناظر، إكمال الجمل، الخطأ السياقي، المفردة الشاذة، مع الحل والسبب",
@@ -103,6 +112,15 @@
     }
   ],
   "com.rukhsarecurring.app": [
+    {
+      "id": "rukhsa-new-2026-11-19",
+      "title": "أسئلة جديدة من التجميعات – 19 نوفمبر",
+      "subtitle": "60 سؤالًا جديدًا في العربي والإسلامية والإنجليزي، بالحل والسبب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-new-2026-11-19.pdf?v=1",
+      "pages": 23,
+      "mb": 1,
+      "free": true
+    },
     {
       "id": "rukhsa-english",
       "title": "أسئلة الإنجليزي التخصصي المتكررة",
