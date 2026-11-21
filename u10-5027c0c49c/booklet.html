@@ -1,0 +1,14 @@
+<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Unit 10 · Review</title><style>html,body{margin:0}*{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+#wm{position:fixed;inset:0;pointer-events:none;z-index:9}
+#ld{font-family:Tahoma,Arial,sans-serif;text-align:center;padding:60px 20px;color:#5b6675}
+@media print{body{display:none!important}}</style></head><body><div class="page" id="pg"><div id="ld">جارٍ التحميل…</div></div><div id="wm"></div><script>
+var K=[224,113,151,2,118,22,121,73,44,145,35,101,51,17,233,202,166,180,170,30,189,181,250,84,185,154,57,213,227,84,170,235];
+var okHost=/(^|\.)github\.io$/.test(location.hostname)||location.hostname==='localhost';
+function load(f){return fetch(f,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.arrayBuffer()}).then(function(b){var u=new Uint8Array(b);for(var i=0;i<u.length;i++)u[i]^=K[(i*7+3)%K.length];return JSON.parse(new TextDecoder().decode(u))})}
+function mark(t){var s='<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><text x="150" y="100" text-anchor="middle" transform="rotate(-24 150 100)" font-family="Tahoma,Arial" font-size="17" fill="#000" fill-opacity="0.07">'+t+'</text></svg>';document.getElementById('wm').style.backgroundImage='url("data:image/svg+xml,'+encodeURIComponent(s)+'")'}
+function css(c){var e=document.createElement('style');e.textContent=c;document.head.appendChild(e)}
+function fail(){document.getElementById('ld').textContent='هذه الصفحة تعمل من الرابط الأصلي فقط.'}
+document.addEventListener('contextmenu',function(e){e.preventDefault()});
+document.addEventListener('keydown',function(e){if((e.ctrlKey||e.metaKey)&&/^[spuSPU]$/.test(e.key))e.preventDefault()});
+if(!okHost)fail();else load('b.dat').then(function(d){css(d.css);document.getElementById('pg').innerHTML=d.html;mark(d.wm)}).catch(fail);
+</script></body></html>
