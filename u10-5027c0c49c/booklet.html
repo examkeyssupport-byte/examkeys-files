@@ -1,7 +1,7 @@
 <!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Unit 10 · Review</title><style>html,body{margin:0}*{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
 #wm{position:fixed;inset:0;pointer-events:none;z-index:9}
 #ld{font-family:Tahoma,Arial,sans-serif;text-align:center;padding:60px 20px;color:#5b6675}
-@media print{body{display:none!important}}</style></head><body><div class="page" id="pg"><div id="ld">جارٍ التحميل…</div></div><div id="wm"></div><script>
+@media print{body{display:none!important}}</style></head><body><div class="page"><a class="back" href="index.html">→ الرئيسية</a><div id="pc"><div id="ld">جارٍ التحميل…</div></div></div><div id="wm"></div><script>
 var K=[224,113,151,2,118,22,121,73,44,145,35,101,51,17,233,202,166,180,170,30,189,181,250,84,185,154,57,213,227,84,170,235];
 var okHost=/(^|\.)github\.io$/.test(location.hostname)||location.hostname==='localhost';
 function load(f){return fetch(f,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.arrayBuffer()}).then(function(b){var u=new Uint8Array(b);for(var i=0;i<u.length;i++)u[i]^=K[(i*7+3)%K.length];return JSON.parse(new TextDecoder().decode(u))})}
@@ -10,5 +10,33 @@ function css(c){var e=document.createElement('style');e.textContent=c;document.h
 function fail(){document.getElementById('ld').textContent='هذه الصفحة تعمل من الرابط الأصلي فقط.'}
 document.addEventListener('contextmenu',function(e){e.preventDefault()});
 document.addEventListener('keydown',function(e){if((e.ctrlKey||e.metaKey)&&/^[spuSPU]$/.test(e.key))e.preventDefault()});
-if(!okHost)fail();else load('b.dat').then(function(d){css(d.css);document.getElementById('pg').innerHTML=d.html;mark(d.wm)}).catch(fail);
+if(!okHost)fail();else load('b.dat').then(function(d){
+css(d.css+".page{padding-bottom:96px}\n.nav{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid #cfd6df;display:flex;gap:8px;align-items:center;justify-content:center;padding:8px 10px;z-index:8}\n.nav button{background:#0f4c81;color:#fff;border:0;border-radius:10px;padding:10px 14px;font:inherit;font-weight:600;cursor:pointer;white-space:nowrap}\n.nav button:disabled{opacity:.35}\n.nav select{flex:1;min-width:0;max-width:300px;font:inherit;padding:9px 6px;border-radius:8px;border:1px solid #cfd6df;background:#fff}\n.nav span{direction:ltr;color:#5b6675;font-size:13px;white-space:nowrap}");mark(d.wm);
+var t=document.createElement('div');t.innerHTML=d.html;
+var P=[],T=[];
+function add(title,nodes){var p=document.createElement('div');nodes.forEach(function(n){p.appendChild(n)});P.push(p);T.push(title)}
+function ttl(h){return h.firstChild.textContent.replace(/\s+$/,'')}
+add('الغلاف',[t.querySelector('.cover')]);
+var h=t.querySelector('h3'),tip=t.querySelector('.tip'),bl=[].slice.call(t.querySelectorAll('.gl2 .blk'));
+for(var i=0;i<bl.length;i+=2){var g=document.createElement('div');g.className='gl2';bl.slice(i,i+2).forEach(function(b){g.appendChild(b)});add(i?null:ttl(h),[h.cloneNode(true)].concat(i?[]:[tip],[g]))}
+[].forEach.call(t.querySelectorAll('.sec'),function(s){var h3=s.querySelector('h3'),qs=[].slice.call(s.querySelectorAll('.q')),title=ttl(h3);
+ if(!qs.length){s.className='';add(title,[s]);return}
+ for(var i=0;i<qs.length;i+=8)add(i?null:title,[h3.cloneNode(true)].concat(qs.slice(i,i+8)))});
+var pc=document.getElementById('pc'),nav=document.createElement('div');nav.className='nav';
+nav.innerHTML='<button id="pv">→ السابق</button><select id="sel"></select><span id="pn"></span><button id="nx">التالي ←</button>';
+document.body.appendChild(nav);
+var sel=document.getElementById('sel'),cur=0;
+T.forEach(function(x,i){if(x){var o=document.createElement('option');o.value=i;o.textContent=x;sel.appendChild(o)}});
+function show(i){cur=Math.max(0,Math.min(P.length-1,i));pc.innerHTML='';pc.appendChild(P[cur]);
+ document.getElementById('pn').textContent=(cur+1)+' / '+P.length;
+ document.getElementById('pv').disabled=cur===0;document.getElementById('nx').disabled=cur===P.length-1;
+ var s=0;for(var k=0;k<=cur;k++)if(T[k])s=k;sel.value=s;
+ try{sessionStorage.setItem('u10pg',cur)}catch(e){}
+ window.scrollTo(0,0)}
+document.getElementById('pv').onclick=function(){show(cur-1)};
+document.getElementById('nx').onclick=function(){show(cur+1)};
+sel.onchange=function(){show(+sel.value)};
+var st=0;try{st=+sessionStorage.getItem('u10pg')||0}catch(e){}
+show(st);
+}).catch(fail);
 </script></body></html>
