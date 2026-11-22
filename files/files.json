@@ -1,6 +1,15 @@
 {
   "com.steprecurring.app": [
     {
+      "id": "step-foundation-1",
+      "title": "كتاب التأسيس – ستيب (الإصدار الأول)",
+      "subtitle": "4 دروس من الصفر في القواعد: تكوين الجملة، توافق الفعل مع الفاعل، ترتيب الكلمات، الأزمنة. شرح مفصّل وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-foundation-1.pdf?v=1",
+      "pages": 42,
+      "mb": 3.6,
+      "free": true
+    },
+    {
       "id": "step-grammar",
       "title": "أسئلة القرامر المتكررة",
       "subtitle": "25 قاعدة بشرح مبسط، و218 سؤالًا من تجميعات المختبرين مع الحل والسبب",
@@ -294,6 +303,15 @@
     }
   ],
   "com.tahsilirecurring.app": [
+    {
+      "id": "tahsili-foundation-math-1",
+      "title": "كتاب التأسيس – الرياضيات (الإصدار الأول)",
+      "subtitle": "3 دروس من الصفر: المصفوفات، المعادلات الأسية واللوغاريتمات، المتتابعات. شرح مفصّل وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-math-1.pdf?v=1",
+      "pages": 31,
+      "mb": 3.4,
+      "free": true
+    },
     {
       "id": "tahsili-early-2027",
       "title": "أسئلة الاختبار التحصيلي المبكر 2027 بالحل",
