@@ -57,21 +57,21 @@
   ],
   "com.qudratrecurring.app": [
     {
-      "id": "qudrat-foundation-1",
-      "title": "كتاب التأسيس – الكمي (الإصدار الأول)",
-      "subtitle": "7 دروس من الصفر: شرح وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-1.pdf?v=1",
-      "pages": 48,
-      "mb": 4,
+      "id": "qudrat-foundation-2",
+      "title": "كتاب التأسيس – الكمي (الإصدار الثاني)",
+      "subtitle": "11 درسًا من الصفر بشرح مفصّل: الأعداد والكسور والنسب المئوية والربح والنسبة والتناسب والمعادلات، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-2.pdf?v=1",
+      "pages": 88,
+      "mb": 7,
       "free": true
     },
     {
-      "id": "qudrat-foundation-verbal-1",
-      "title": "كتاب التأسيس – اللفظي (الإصدار الأول)",
-      "subtitle": "5 دروس من الصفر في التناظر وإكمال الجمل: شرح وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-verbal-1.pdf?v=1",
-      "pages": 33,
-      "mb": 3,
+      "id": "qudrat-foundation-verbal-2",
+      "title": "كتاب التأسيس – اللفظي (الإصدار الثاني)",
+      "subtitle": "10 دروس من الصفر: التناظر وإكمال الجمل والخطأ السياقي والمفردة الشاذة واستيعاب المقروء، بشرح مفصّل وأمثلة محلولة من التجميعات وتدريب",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-verbal-2.pdf?v=1",
+      "pages": 78,
+      "mb": 6,
       "free": true
     },
     {
