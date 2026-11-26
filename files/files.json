@@ -1,12 +1,12 @@
 {
   "com.steprecurring.app": [
     {
-      "id": "step-foundation-1",
-      "title": "كتاب التأسيس – ستيب (الإصدار الأول)",
-      "subtitle": "4 دروس من الصفر في القواعد: تكوين الجملة، توافق الفعل مع الفاعل، ترتيب الكلمات، الأزمنة. شرح مفصّل وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-foundation-1.pdf?v=1",
-      "pages": 42,
-      "mb": 3.6,
+      "id": "step-foundation-2",
+      "title": "كتاب التأسيس – ستيب (الإصدار الثاني)",
+      "subtitle": "7 دروس من الصفر بشرح مفصّل: كل دروس الإصدارات السابقة + used to و be used to، جمل If الشرطية، الأفعال الناقصة (modals)، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/step-foundation-2.pdf?v=1",
+      "pages": 72,
+      "mb": 5,
       "free": true
     },
     {
@@ -57,21 +57,21 @@
   ],
   "com.qudratrecurring.app": [
     {
-      "id": "qudrat-foundation-2",
-      "title": "كتاب التأسيس – الكمي (الإصدار الثاني)",
-      "subtitle": "11 درسًا من الصفر بشرح مفصّل: الأعداد والكسور والنسب المئوية والربح والنسبة والتناسب والمعادلات، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-2.pdf?v=1",
-      "pages": 88,
-      "mb": 7,
+      "id": "qudrat-foundation-3",
+      "title": "كتاب التأسيس – الكمي (الإصدار الثالث)",
+      "subtitle": "15 درسًا من الصفر بشرح مفصّل: كل دروس الإصدارات السابقة + المتباينات، الأسس والجذور، خطوات حل المسألة الكلامية، السرعة والوقت، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-3.pdf?v=1",
+      "pages": 118,
+      "mb": 9,
       "free": true
     },
     {
-      "id": "qudrat-foundation-verbal-2",
-      "title": "كتاب التأسيس – اللفظي (الإصدار الثاني)",
-      "subtitle": "10 دروس من الصفر: التناظر وإكمال الجمل والخطأ السياقي والمفردة الشاذة واستيعاب المقروء، بشرح مفصّل وأمثلة محلولة من التجميعات وتدريب",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-verbal-2.pdf?v=1",
-      "pages": 78,
-      "mb": 6,
+      "id": "qudrat-foundation-verbal-3",
+      "title": "كتاب التأسيس – اللفظي (الإصدار الثالث)",
+      "subtitle": "14 درسًا من الصفر بشرح مفصّل: كل دروس الإصدارات السابقة + علاقات أقل شهرة في التناظر، معنى الكلمة الصعبة، العلاقة بين الجمل وفكرة النص، القطعة الطويلة، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/qudrat-foundation-verbal-3.pdf?v=1",
+      "pages": 106,
+      "mb": 8,
       "free": true
     },
     {
@@ -148,6 +148,24 @@
     }
   ],
   "com.rukhsarecurring.app": [
+    {
+      "id": "rukhsa-foundation-general-1",
+      "title": "كتاب التأسيس – التربوي العام (الإصدار الأول)",
+      "subtitle": "درسان من الصفر بشرح مفصّل: النظرية السلوكية، المعرفية والبنائية، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-foundation-general-1.pdf?v=1",
+      "pages": 33,
+      "mb": 2,
+      "free": true
+    },
+    {
+      "id": "rukhsa-foundation-english-1",
+      "title": "كتاب التأسيس – الإنجليزي (الإصدار الأول)",
+      "subtitle": "3 دروس من الصفر بشرح مفصّل: طرق ومداخل التدريس، التدريس التواصلي والتخطيط، نظريات الاكتساب وأخطاء المتعلم، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/rukhsa-foundation-english-1.pdf?v=1",
+      "pages": 58,
+      "mb": 4,
+      "free": true
+    },
     {
       "id": "rukhsa-new-2026-11-19",
       "title": "أسئلة جديدة من التجميعات – 19 نوفمبر",
@@ -304,12 +322,39 @@
   ],
   "com.tahsilirecurring.app": [
     {
-      "id": "tahsili-foundation-math-1",
-      "title": "كتاب التأسيس – الرياضيات (الإصدار الأول)",
-      "subtitle": "3 دروس من الصفر: المصفوفات، المعادلات الأسية واللوغاريتمات، المتتابعات. شرح مفصّل وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
-      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-math-1.pdf?v=1",
-      "pages": 31,
-      "mb": 3.4,
+      "id": "tahsili-foundation-math-2",
+      "title": "كتاب التأسيس – الرياضيات (الإصدار الثاني)",
+      "subtitle": "6 دروس من الصفر بشرح مفصّل: كل دروس الإصدارات السابقة + الدوال، تبسيط العبارات والجذور، الاحتمال، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-math-2.pdf?v=1",
+      "pages": 62,
+      "mb": 5,
+      "free": true
+    },
+    {
+      "id": "tahsili-foundation-physics-1",
+      "title": "كتاب التأسيس – الفيزياء (الإصدار الأول)",
+      "subtitle": "3 دروس من الصفر بشرح مفصّل: المتجهات والسرعة والتسارع، الحركة الدورانية، النواة والاضمحلال، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-physics-1.pdf?v=1",
+      "pages": 38,
+      "mb": 4,
+      "free": true
+    },
+    {
+      "id": "tahsili-foundation-chemistry-1",
+      "title": "كتاب التأسيس – الكيمياء (الإصدار الأول)",
+      "subtitle": "3 دروس من الصفر بشرح مفصّل: تركيب الذرة، الأكسدة والاختزال، المادة وتصنيفها، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-chemistry-1.pdf?v=1",
+      "pages": 40,
+      "mb": 4,
+      "free": true
+    },
+    {
+      "id": "tahsili-foundation-biology-1",
+      "title": "كتاب التأسيس – الأحياء (الإصدار الأول)",
+      "subtitle": "3 دروس من الصفر بشرح مفصّل: الفقاريات، الفيروسات والطحالب ونواقل الأمراض، الدم والمناعة، وأمثلة محلولة من التجميعات وتدريب، ولكل جزء فيديو شرح",
+      "url": "https://examkeyssupport-byte.github.io/examkeys-files/files/tahsili-foundation-biology-1.pdf?v=1",
+      "pages": 48,
+      "mb": 4,
       "free": true
     },
     {
